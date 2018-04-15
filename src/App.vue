@@ -21,4 +21,22 @@ export default {
   text-align: center;
   color: #2c3e50;
 }
+.w100{
+  width: 100%;
+}
+.tal{
+  text-align: left;
+}
+.p20 {
+  padding: 20px;
+}
+
+html,body,#app,.el-container,.el-aside,.el-main{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+.el-main{
+  overflow: auto;
+}
 </style>
