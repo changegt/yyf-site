@@ -1,0 +1,2 @@
+1、vue + vuex + element + vue-router
+2、前期先使用easy-mock模拟数据，后期搭建koa系统
